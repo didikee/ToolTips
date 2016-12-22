@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="MyDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/MyDialogAnimation</item>
+    </style>-->
+
+    <style name="ToolTipAnimation">
+        <item name="android:windowEnterAnimation">@anim/tooltip_enter</item>
+        <item name="android:windowExitAnimation">@anim/tooltip_exit</item>
+    </style>
+</resources>
